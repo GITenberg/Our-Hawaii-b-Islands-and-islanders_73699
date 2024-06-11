@@ -1,0 +1,53 @@
+_repo: Our-Hawaii-b-Islands-and-islanders_73699
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: https://en.wikipedia.org/wiki/Jack_London
+creator:
+  author:
+    agent_name: London, Charmian
+    aliases:
+    - London, Charmian Kittredge
+    - London, Mrs. Jack
+    birthdate: 1871
+    deathdate: 1955
+    gutenberg_agent_id: '57183'
+    url: http://www.gutenberg.org/2009/agents/57183
+    wikipedia: https://en.wikipedia.org/wiki/Charmian_London
+description: The present volume is a revision of "Our Hawaii," issued in 1917, from
+  which has been eliminated the bulk of personal memoirs, now incorporated into the
+  "Book of Jack London." Jack London's three articles entitled "My Hawaiian Aloha,"
+  which were published in 1916 in the Cosmopolitan magazine, have been made a part
+  of this book.
+edition_note: New and revised edition
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73699'
+  lccn: '22003032'
+language: en
+pgterms:marc904: https://archive.org/details/ourhawaiiislands00lond
+pgterms:marc905: 20140211230732london
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Sean, an independent e-book maker in Canada (ttd ali at yahoo com)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1917, copyright 1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Hawaii -- Description and travel'
+- !lcsh 'London, Jack, 1876-1916 -- Travel -- Hawaii'
+- !lcsh 'London, Charmian, 1871-1955 -- Diaries'
+- !lcsh 'Hawaii -- Social life and customs -- 20th century'
+- !lcc 'DU'
+- GITenberg
+title: 'Our Hawaii : $b (Islands and islanders)'
+url: http://www.gutenberg.org/ebooks/73699
