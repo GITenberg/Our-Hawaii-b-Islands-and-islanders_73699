@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '120'
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
+covers:
+- cover_type: archival
+  image_path: 73699-h/images/cover.jpg
 creator:
   author:
     agent_name: London, Charmian
@@ -25,6 +28,8 @@ description: The present volume is a revision of "Our Hawaii," issued in 1917, f
   "Book of Jack London." Jack London's three articles entitled "My Hawaiian Aloha,"
   which were published in 1916 in the Cosmopolitan magazine, have been made a part
   of this book.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73699#Our-Hawaii-b-Islands-and-islanders
 edition_note: New and revised edition
 gutenberg_issued: '2024-05-25'
 gutenberg_type: Text
